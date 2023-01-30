@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "408361393813",
+    "project_id": "sonofirstapp-a6b4c",
+    "storage_bucket": "sonofirstapp-a6b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408361393813:android:f7693e40df006fae40859c",
+        "android_client_info": {
+          "package_name": "com.app.sono_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408361393813-kuo461v12dkapo0adftc9ducfj4dp1t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifzlZzOTRth72HwUD5og2sjwMvGEuTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408361393813-kuo461v12dkapo0adftc9ducfj4dp1t7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408361393813-9dnfdjoough8c1hijt5h6fl7lacmtk0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sonoFirst"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408361393813:android:94b85009b6e1a32e40859c",
+        "android_client_info": {
+          "package_name": "com.example.sono_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408361393813-kuo461v12dkapo0adftc9ducfj4dp1t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifzlZzOTRth72HwUD5og2sjwMvGEuTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408361393813-kuo461v12dkapo0adftc9ducfj4dp1t7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408361393813-9dnfdjoough8c1hijt5h6fl7lacmtk0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sonoFirst"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
